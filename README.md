@@ -58,11 +58,3 @@ NumPy
 Matplotlib
 Scikit-learn
 CLustering
-
-## Results
-![Faculty Face Detection](/Users/eswarreddytadi/Sem\ 4/MLPR/Labs/Lab\ 5/Number\ of\ faces\ detected.png )
-![Feature based Clustering into two classes faculty Result](/Users/eswarreddytadi/Sem\ 4/MLPR/Labs/Lab\ 5/Screenshot\ 2026-02-15\ at\ 4.51.29 PM.png.png)
-![Clustering Faculty Result](/Users/eswarreddytadi/Sem\ 4/MLPR/Labs/Lab\ 5/Screenshot\ 2026-02-15\ at\ 4.51.44 PM.png.png)
-![Shahi Tharoor Face Detection](/Users/eswarreddytadi/Sem\ 4/MLPR/Labs/Lab\ 5/Detected\ face.png)
-![Feature based Clustering into two classes shahi taroor Result]( /Users/eswarreddytadi/Sem\ 4/MLPR/Labs/Lab\ 5/Screenshot\ 2026-02-15\ at\ 4.51.55 PM.png)
-![Clustering Faculty Result](/Users/eswarreddytadi/Sem\ 4/MLPR/Labs/Lab\ 5/Screenshot\ 2026-02-15\ at\ 4.51.44 PM.png.png)
