@@ -1,4 +1,3 @@
-<img width="1118" height="560" alt="Screenshot 2026-02-15 at 4 51 55 PM" src="https://github.com/user-attachments/assets/c56fc41f-fcc0-480a-b6b1-61fbb20ca2e2" /><img width="1710" height="1074" alt="Number of faces detected" src="https://github.com/user-attachments/assets/56d1a631-1abf-4d9b-bc94-1f242397b0ed" /># Lab-5-Distance-based-Classification
 Implementing face detection with using distance based classification. It also analyzes KNN classification, focusing on cross-validation and the bias-variance tradeoff to optimize results.
 
 ## Overview
